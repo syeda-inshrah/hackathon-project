@@ -1,0 +1,6 @@
+eventId,eventType,severity,location,latitude,longitude,description,reportedBy,contactNumber,reportedAt,status
+1,Earthquake,High,Karachi,24.8607,67.0011,"Earthquake of magnitude 6.2 reported in Karachi.",Seismology Dept.,+922112345678,2025-09-28 07:00:00,active
+2,Flood,Critical,Lahore,31.5497,74.3436,"Severe flood in Lahore due to heavy rains.",Citizen Reports,+923001234567,2025-09-28 07:00:00,active
+3,Fire,Medium,Islamabad,33.6844,73.0479,"Warehouse fire in Islamabad Industrial Area.",Fire Department,+925118765432,2025-09-28 07:00:00,active
+4,Cyclone,High,Karachi,24.8607,67.0011,"Cyclone warning issued for Karachi coastal areas.",Meteorological Dept.,+922112334455,2025-09-28 07:00:00,monitoring
+5,Landslide,Low,Murree,33.908,73.3947,"Small landslide reported on Murree road.",Citizen Reports,+923334445566,2025-09-28 07:00:00,resolved
